@@ -1,4 +1,18 @@
-# CV
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me - Kenneth McNally</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="cv.html">CV</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <main>
+    # CV
 
 ## Experience
 
@@ -32,3 +46,7 @@ Completed practical training and gained hands-on experience across multiple proj
 ## Contact
 📧 [92kenn@gmail.com](mailto:92kenn@gmail.com)  
 🌍 [Home](index.html) | [About Me](about.html)
+  </main>
+</body>
+</html>
+
